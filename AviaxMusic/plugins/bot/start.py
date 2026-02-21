@@ -187,7 +187,7 @@ Use the console below 👇
                 [
                     InlineKeyboardButton(
                         "🛒 Open API Console",
-                        url="https://console.nexgenbots.xyz",
+                        url="https://t.me/Lord_Vasudev_Krishna",
                     )
                 ],
                 [
